@@ -21,10 +21,10 @@ Welcome to the Fullstack Web Development Course! This comprehensive course cover
 
 In this course, you will embark on a journey to become a fullstack web developer. You will learn a wide range of web technologies, starting from the basics and progressing to advanced topics. By the end of this course, you will have the skills to create dynamic and responsive web applications. Check also my youtube channel to watch all #songurtechnology
 
-Youtube: https://www.youtube.com/channel/UC1dishXkDfWD_5XJX_Vk1Pw
-Udemy: https://www.udemy.com/user/muhammed-songur-6/
-Kaggle: https://www.kaggle.com/songurtechnology
-Linkedin: https://www.linkedin.com/in/muhammed-songur-8610a621a/
+- [Youtube] https://www.youtube.com/channel/UC1dishXkDfWD_5XJX_Vk1Pw
+- [Udemy] https://www.udemy.com/user/muhammed-songur-6/
+- [Kaggle] https://www.kaggle.com/songurtechnology
+- [Linkedin] https://www.linkedin.com/in/muhammed-songur-8610a621a/
 
 ## Prerequisites
 
